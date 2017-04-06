@@ -67,6 +67,8 @@
         "request",
         "should",
         "sinon",
-        "sinonPromise"
+        "sinonPromise",
+        "it",
+        "after"
     ]
 }
